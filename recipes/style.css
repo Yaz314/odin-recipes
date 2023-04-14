@@ -1,0 +1,30 @@
+body {
+    background-color: #dec19b;
+}
+
+.title {
+    font-size:32px;
+    color:black;
+    text-align:left;
+    font-family:Apple Chancery,cursive;
+}
+
+.cake {
+   display:block;
+   margin-left:auto;
+   margin-right:auto;
+   width:50%;
+}
+
+
+.para {
+    font-size:16px;
+    text-align:left;
+    font-family:Didot,serif;
+}
+
+.list {
+    font-size:16px;
+    text-align:left;
+    font-family:Didot,serif;
+}

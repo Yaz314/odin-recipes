@@ -1,0 +1,31 @@
+.background {
+    background-color: 	#dec19b;;
+
+
+}
+
+.header {
+    color:black;
+    text-align: center;
+    font-family:Apple Chancery,cursive;
+}
+
+img {
+    height:auto;
+    width: 400px;
+    margin-left:auto;
+    margin-right:auto;
+    display: block;
+
+}
+
+div.container {
+    text-align:center;
+}
+
+ul.list {
+    font-family:Didot,serif;
+    text-align:center;
+    display: inline-block;
+    text-align:left;
+}
