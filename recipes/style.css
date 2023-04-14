@@ -4,7 +4,7 @@ body {
 }
 
 .title {
-    font-size:32px;
+    font: size 40px;px;
     color:black;
     text-align:left;
     font-family:Apple Chancery,cursive;
@@ -19,7 +19,7 @@ body {
 
 
 .para {
-    font-size:16px;
+    font: size 16px;
     text-align:left;
     font-family:Didot,serif;
 }
